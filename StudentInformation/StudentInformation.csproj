@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7DF2194B-07F2-4B44-B2A1-0FDDEC5FA938}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>StudentInformation</RootNamespace>
+    <AssemblyName>StudentInformation</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <StartupObject>StudentInformation.Program</StartupObject>
+    <ApplicationIcon>backpack.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmAbout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAbout.Designer.cs">
+      <DependentUpon>frmAbout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLibraryManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLibraryManagement.Designer.cs">
+      <DependentUpon>frmLibraryManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmStudentDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStudentDetail.Designer.cs">
+      <DependentUpon>frmStudentDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmStudentInformation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStudentInformation.Designer.cs">
+      <DependentUpon>frmStudentInformation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmStudentSalary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStudentSalary.Designer.cs">
+      <DependentUpon>frmStudentSalary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTeacherDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTeacherDetail.Designer.cs">
+      <DependentUpon>frmTeacherDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTeacherInformation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTeacherInformation.Designer.cs">
+      <DependentUpon>frmTeacherInformation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTeacherSalary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTeacherSalary.Designer.cs">
+      <DependentUpon>frmTeacherSalary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmAbout.resx">
+      <DependentUpon>frmAbout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLibraryManagement.resx">
+      <DependentUpon>frmLibraryManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStudentDetail.resx">
+      <DependentUpon>frmStudentDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStudentInformation.resx">
+      <DependentUpon>frmStudentInformation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStudentSalary.resx">
+      <DependentUpon>frmStudentSalary.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTeacherDetail.resx">
+      <DependentUpon>frmTeacherDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTeacherInformation.resx">
+      <DependentUpon>frmTeacherInformation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTeacherSalary.resx">
+      <DependentUpon>frmTeacherSalary.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="backpack.ico" />
+    <None Include="Resources\techni.wav" />
+    <None Include="Resources\beautiful_people.wav" />
+    <None Include="Resources\delete.wav" />
+    <None Include="Resources\bonn.wav" />
+    <None Include="Resources\happy kd.wav" />
+    <None Include="Resources\pox.wav" />
+    <None Include="Resources\poxpoxpox.wav" />
+    <None Include="Resources\cash1.wav" />
+    <None Include="Resources\gaincoil.wav" />
+    <None Include="Resources\don.wav" />
+    <None Include="Resources\bollon.wav" />
+    <None Include="Resources\bell.wav" />
+    <None Include="Resources\qqe3s4dzgt8238iuvvo3.gif" />
+    <None Include="Resources\backpack.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,42 @@
+D:\Kaizaki Arata\Document\3Git\StudentInformation\StudentInformation\obj\Debug\ResolveAssemblyReference.cache
+D:\Kaizaki Arata\Document\3Git\StudentInformation\StudentInformation\obj\Debug\StudentInformation.frmStudentInformation.resources
+D:\Kaizaki Arata\Document\3Git\StudentInformation\StudentInformation\obj\Debug\StudentInformation.Properties.Resources.resources
+D:\Kaizaki Arata\Document\3Git\StudentInformation\StudentInformation\obj\Debug\StudentInformation.csproj.GenerateResource.Cache
+D:\Kaizaki Arata\Document\3Git\StudentInformation\StudentInformation\bin\Debug\StudentInformation.exe
+D:\Kaizaki Arata\Document\3Git\StudentInformation\StudentInformation\bin\Debug\StudentInformation.pdb
+D:\Kaizaki Arata\Document\3Git\StudentInformation\StudentInformation\obj\Debug\StudentInformation.exe
+D:\Kaizaki Arata\Document\3Git\StudentInformation\StudentInformation\obj\Debug\StudentInformation.pdb
+D:\Kaizaki Arata\Document\3Git_C#\StudentInformation\StudentInformation\obj\Debug\StudentInformation.exe
+D:\Kaizaki Arata\Document\3Git_C#\StudentInformation\StudentInformation\obj\Debug\StudentInformation.pdb
+D:\Kaizaki Arata\Document\3Git_C#\StudentInformation\StudentInformation\bin\Debug\StudentInformation.exe
+D:\Kaizaki Arata\Document\3Git_C#\StudentInformation\StudentInformation\bin\Debug\StudentInformation.pdb
+D:\Kaizaki Arata\Document\3Git_C#\StudentInformation\StudentInformation\obj\Debug\ResolveAssemblyReference.cache
+D:\Kaizaki Arata\Document\3Git_C#\StudentInformation\StudentInformation\obj\Debug\StudentInformation.frmStudentInformation.resources
+D:\Kaizaki Arata\Document\3Git_C#\StudentInformation\StudentInformation\obj\Debug\StudentInformation.Properties.Resources.resources
+D:\Kaizaki Arata\Document\3Git_C#\StudentInformation\StudentInformation\obj\Debug\StudentInformation.csproj.GenerateResource.Cache
+D:\Kaizaki Arata\Document\3Git_C#\StudentInformation\StudentInformation\obj\Debug\StudentInformation.frmStudentDetail.resources
+D:\Kaizaki Arata\Document\3Git_C#\StudentInformation\StudentInformation\obj\Debug\StudentInformation.frmMain.resources
+D:\Kaizaki Arata\Document\3Git_C#\StudentInformation\StudentInformation\obj\Debug\StudentInformation.frmTeacherDetail.resources
+D:\Kaizaki Arata\Document\3Git_C#\StudentInformation\StudentInformation\obj\Debug\StudentInformation.frmTeacherInformation.resources
+D:\Kaizaki Arata\Document\3Git_C#\StudentInformation\StudentInformation\obj\Debug\StudentInformation.frmStudentSalary.resources
+D:\Kaizaki Arata\Document\3Git_C#\StudentInformation\StudentInformation\obj\Debug\StudentInformation.frmTeacherSalary.resources
+D:\Kaizaki Arata\Document\3Git_C#\StudentInformation\StudentInformation\obj\Debug\StudentInformation.frmLibraryManagement.resources
+D:\Kaizaki Arata\Document\3Git_C#\School Management\StudentInformation\obj\Debug\StudentInformation.exe
+D:\Kaizaki Arata\Document\3Git_C#\School Management\StudentInformation\obj\Debug\StudentInformation.pdb
+D:\Kaizaki Arata\Document\3Git_C#\School Management\StudentInformation\bin\Debug\StudentInformation.exe
+D:\Kaizaki Arata\Document\3Git_C#\School Management\StudentInformation\bin\Debug\StudentInformation.pdb
+D:\Kaizaki Arata\Document\3Git_C#\School Management\StudentInformation\obj\Debug\ResolveAssemblyReference.cache
+D:\Kaizaki Arata\Document\3Git_C#\School Management\StudentInformation\obj\Debug\StudentInformation.frmAbout.resources
+D:\Kaizaki Arata\Document\3Git_C#\School Management\StudentInformation\obj\Debug\StudentInformation.frmLibraryManagement.resources
+D:\Kaizaki Arata\Document\3Git_C#\School Management\StudentInformation\obj\Debug\StudentInformation.frmMain.resources
+D:\Kaizaki Arata\Document\3Git_C#\School Management\StudentInformation\obj\Debug\StudentInformation.frmStudentDetail.resources
+D:\Kaizaki Arata\Document\3Git_C#\School Management\StudentInformation\obj\Debug\StudentInformation.frmStudentInformation.resources
+D:\Kaizaki Arata\Document\3Git_C#\School Management\StudentInformation\obj\Debug\StudentInformation.frmStudentSalary.resources
+D:\Kaizaki Arata\Document\3Git_C#\School Management\StudentInformation\obj\Debug\StudentInformation.frmTeacherDetail.resources
+D:\Kaizaki Arata\Document\3Git_C#\School Management\StudentInformation\obj\Debug\StudentInformation.frmTeacherInformation.resources
+D:\Kaizaki Arata\Document\3Git_C#\School Management\StudentInformation\obj\Debug\StudentInformation.frmTeacherSalary.resources
+D:\Kaizaki Arata\Document\3Git_C#\School Management\StudentInformation\obj\Debug\StudentInformation.Properties.Resources.resources
+D:\Kaizaki Arata\Document\3Git_C#\School Management\StudentInformation\obj\Debug\StudentInformation.csproj.GenerateResource.Cache
+D:\Kaizaki Arata\Document\3Git_C#\School Management\StudentInformation\obj\Debug\StudentInformation.frmLogin.resources
+D:\Kaizaki Arata\Document\3GIT-C#\Second Semester\School Management\StudentInformation\obj\Debug\StudentInformation.exe
+D:\Kaizaki Arata\Document\3GIT-C#\Second Semester\School Management\StudentInformation\obj\Debug\StudentInformation.pdb

@@ -1,0 +1,2 @@
+D:\Kaizaki Arata\Document\3Git_C#\School Management\StudentInformation\obj\Debug\StudentInformation.exe
+D:\Kaizaki Arata\Document\3Git_C#\School Management\StudentInformation\obj\Debug\StudentInformation.pdb
